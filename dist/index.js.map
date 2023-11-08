@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.js"],"sourcesContent":["// 入口文件\nfunction Vue(){\n\n}\n\nexport default Vue;"],"names":["Vue"],"mappings":";;;;;;CAAA;CACA,SAASA,GAAGA,GAAE;;;;;;;;"}
