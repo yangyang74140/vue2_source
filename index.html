@@ -7,7 +7,19 @@
 </head>
 <body>
     <div id="app">
-        hello
+   <script src="./dist/index.js"></script> 
+   <script>
+    // 使用的是umd格式打包,所以会在window上反回一个Vue
+
+    // 创建一个vue实例
+    new Vue({
+        el:'#app',
+        data:{
+        },  
+        methods:{},
+        props:{}
+    })
+   </script>
     </div>
 </body>
 </html>
